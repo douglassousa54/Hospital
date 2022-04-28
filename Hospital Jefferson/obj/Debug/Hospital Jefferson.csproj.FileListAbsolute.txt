@@ -1,0 +1,6 @@
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\Hospital Jefferson\Hospital Jefferson\bin\Debug\Hospital Jefferson.exe.config
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\Hospital Jefferson\Hospital Jefferson\obj\Debug\Hospital Jefferson.csprojResolveAssemblyReference.cache
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\Hospital Jefferson\Hospital Jefferson\bin\Debug\Hospital Jefferson.exe
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\Hospital Jefferson\Hospital Jefferson\bin\Debug\Hospital Jefferson.pdb
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\Hospital Jefferson\Hospital Jefferson\obj\Debug\Hospital Jefferson.exe
+C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\Hospital Jefferson\Hospital Jefferson\obj\Debug\Hospital Jefferson.pdb
