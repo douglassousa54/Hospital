@@ -120,7 +120,7 @@ namespace Hospital_Jefferson
                         Console.WriteLine("escolha o numero do paciente que deseja alterar");
                         int mudar = int.Parse(Console.ReadLine());
 
-                        if (mudar > 10)
+                        if (mudar > i-1)
                         {
                             Console.WriteLine("Erro! Numero digitado incorreto");
                             Console.ReadKey();
