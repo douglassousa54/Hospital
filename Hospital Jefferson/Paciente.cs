@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Hospital_Jefferson
 {
-    class Paciente
+    class Paciente : Program
     {
-        int idade;
-        string nome;
-        string CPF;
-
+        public int idade;
+        public string nome;
+        public string CPF;
+        
         public void cadastro ()
         {
             Console.WriteLine("Digite o nome do paciente");

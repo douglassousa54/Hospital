@@ -4,3 +4,11 @@ C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\Hospital Jefferson\Hospit
 C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\Hospital Jefferson\Hospital Jefferson\bin\Debug\Hospital Jefferson.pdb
 C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\Hospital Jefferson\Hospital Jefferson\obj\Debug\Hospital Jefferson.exe
 C:\Users\Tecnico\Documents\Visual Studio 2015\Projects\Hospital Jefferson\Hospital Jefferson\obj\Debug\Hospital Jefferson.pdb
+C:\Users\Crodoaldo\Desktop\etec\DS\Hospital\Hospital\Hospital Jefferson\bin\Debug\Hospital Jefferson.exe.config
+C:\Users\Crodoaldo\Desktop\etec\DS\Hospital\Hospital\Hospital Jefferson\bin\Debug\Hospital Jefferson.exe
+C:\Users\Crodoaldo\Desktop\etec\DS\Hospital\Hospital\Hospital Jefferson\bin\Debug\Hospital Jefferson.pdb
+C:\Users\Crodoaldo\Desktop\etec\DS\Hospital\Hospital\Hospital Jefferson\obj\Debug\Hospital Jefferson.csproj.AssemblyReference.cache
+C:\Users\Crodoaldo\Desktop\etec\DS\Hospital\Hospital\Hospital Jefferson\obj\Debug\Hospital Jefferson.csproj.SuggestedBindingRedirects.cache
+C:\Users\Crodoaldo\Desktop\etec\DS\Hospital\Hospital\Hospital Jefferson\obj\Debug\Hospital Jefferson.csproj.CoreCompileInputs.cache
+C:\Users\Crodoaldo\Desktop\etec\DS\Hospital\Hospital\Hospital Jefferson\obj\Debug\Hospital Jefferson.exe
+C:\Users\Crodoaldo\Desktop\etec\DS\Hospital\Hospital\Hospital Jefferson\obj\Debug\Hospital Jefferson.pdb
