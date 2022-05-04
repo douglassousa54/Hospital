@@ -123,6 +123,7 @@ namespace Hospital_Jefferson
                         if (mudar > 10)
                         {
                             Console.WriteLine("Erro! Numero digitado incorreto");
+                            Console.ReadKey();
                         }
                         else
                         {
